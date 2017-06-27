@@ -1,0 +1,203 @@
+0;	Nothing here, NS:do not edit this line.;	Void;#
+1;	Antenatal care is not important in all pregnancy.;	False;#
+2;	Eating healthy in pregnancy is important for you and your growing baby.;	True;#
+3;	Fruits and vegetables are very important source of vitamins in pregnancy.;	True;#
+4;	Fish is very good in pregnancy especially salmon fish.;	True;#
+5;	It is not important to speak with your doctor during pregnancy.;	False;#
+6;	Folic acid, Iron and Vitamin B supplements are important for the growth and development of your child's brain.;	True;#
+7;	Folic acid, Iron and Vitamin B supplements does not help prevent anaemia in to pregnancy.;	False;#
+8;	Folic acid, Iron and Vitamin B supplements causes anaemia in to pregnancy.;	False;#
+9;	It is not important to do an early ultra sound scan test in pregnancy.;	False;#
+10;	Ultra Sound Scan is not useful in pregnancy.;	False;#
+11;	Ultra Sound Scan is a waste of time in pregnancy.; False;#
+12;	Ultra Sound Scan helps your doctor accurately date your pregnancy.; True;#
+13;	Ultra Sound Scan helps to detect any anomalies of pregnancy very early.;	True;#
+14;	Eight to ten hours of sleep in a day is not good for your pregnancy.; False;#
+15;	Smoking and Drinking alcohol during pregnancy harms you and your baby.; True;#
+16;	It is ok to smoke or drink alcohol during pregnancy.; False;#
+17;	Never smoke or drink during pregnancy.; False;#
+18;	Regular exercise is good for you and your baby's circulation.; True;#
+19;	Simple exercise like walking for about 30minutes two-three times a week is good for you and your baby.; True;#
+20;	Avoid heavy exercise like weight lifting or running very long distances.; True;#
+21;	Never talk to your doctor during clinic visits about your exercises.;	False;#
+22;	Tetanus Toxoid vaccination is important in protecting you and your baby from infections during labor.; True;#
+23;	Tetanus Toxoid Vaccination causes death of baby.; False;#
+24;	Malaria is not dangerous to a pregnant mother, fetus, and baby.; False;#
+25;	Malaria can be prevented during pregnancy.; True;#
+26;	It is important to take Intermittent Preventive Therapy to prevent and treat Malaria in Pregnancy.	; True;#
+27;	Intermittent Preventive Therapy is an anti malaria drug to help prevent and treat malaria during pregnancy.; True;#
+28;	Intermittent Preventive Therapy causes malaria in pregnancy.; False;#
+29; At least four antenatal visits during pregnancy is good.; True;#
+30;	Intermittent preventive therapy can be taken at any time during pregnancy.;  False;#
+31;	You can prevent malaria in pregnancy by taking intermittent preventive therapy in each trimester of pregnancy except first trimester.; True;#
+32;	In pregnancy trimester means 3 months.; True;#
+33;	In pregnancy trimester means 4 months.; False;#
+34;	In pregnancy trimester means 6 months.; False;#
+35;	There are three trimesters in a complete pregnancy period.; True;#
+36;	There are four trimesters in a complete pregnancy period.;	False;#
+37;	There are six trimesters in a complete pregnancy period.;	False;#
+38;	During pregnancy, never take drugs not prescribed by a doctor or a well-respected and licensed midwife.;	True;#
+39;	Never take any traditional concoctions during pregnancy.;	True;#
+40;	Traditional concoctions is good for pregnancy.;	False;#
+41;	Traditional concoctions is very bad for the pregnancy and the baby.;	True;#
+42;	The main aim of antenatal care is to ensure a healthy mother and baby at the end of the pregnancy period.;	True;#
+43;	The main aim of antenatal care is to ensure a healthy mother ONLY at the end of the pregnancy  period.; False;#
+44;	The main aim of antenatal care is to ensure a healthy baby ONLY at the end of the pregnancy  period.; False;#
+45;	Antenatal period is a major health measure which guarantees that the mother and baby remains healthy throughout pregnancy.;	 True;#
+46; Antenatal care is not important in pregnancy;  False;#
+47; Antenatal care has well defined measures aimed at preventing the development of any pregnancy complications; True;#
+48; Antenatal is a waste of time; False;#
+49; Always ask your doctors any question that is disturbing you.; False;#
+50; Your Doctor is there to support your health needs including psychological needs; True;#
+51; Your Doctor is there to support your health needs except psychological needs.; False;#
+52; As a pregnant mother you should be a passive receiver, do not participate actively in the care of herself and baby.; False;#
+53; Blood pressure check is important in pregnancy.; True;#
+54; Blood Sugar test is not necessary in pregnancy.; False;#
+55; Always tell your healthcare provided to check blood pressure during every antenatal care visit.; True;#
+56; Pre-eclapmsia is an important complication of pregnancy.;  True;#
+57; Always ask your healthcare provider to help monitor your blood pressure and urine analysis; True;#
+58; Accurate menstrual history is it not important for calculation of gestational age and expected date of delivery.; False;#
+59; Always do an HIV testing early in  pregnancy; True;#
+60; HIV test is not necessary in pregnancy.; False;#
+61; Always know your blood group.; True;#
+62; Do not get ready a blood donor who matches your blood group ready. It is not important in labour.; False;#
+63; Frequent urination is common in early pregnancy.;  True;#
+64; If you are having painful urination use traditional medicine; False;#
+65; Nausea and vomiting are not common symptoms of pregnancy; False;#
+66; A foamy yellowish discharge is normal pregnancy; False;#
+67; Moderate bleeding in early pregnancy should always be investigated by your health care provider; True; #
+68; Antenatal visits in Nigeria are schedule as every 4weeks until 28weeks of pregnancy, then every 2weeks until 36weeks of pregnancy, and every week until delivery.; True;#
+69; Antenatal visits in Nigeria are schedule as every 4weeks until 30weeks of pregnancy, then every 2weeks until 34weeks of pregnancy, and every week until delivery; False;#
+70; Antenatal visits in Nigeria are schedule as every 6weeks until 28weeks of pregnancy, then every 4weeks until 36weeks of pregnancy, and every week until delivery; False;#
+71; At each antenatal visits, weight, blood pressure measurements should be taken.; True;#
+72; At each antenatal visits, weight, blood pressure measurements should be not taken; False;#
+73; At each antenatal visit urine should be analysed for protein and sugar.; True;#
+74; The average total weight gain in pregnancy is about 10-16kg.; True;#
+75; The average total weight gain in pregnancy is about 30-36kg.; False;#
+76; The average total weight gain in pregnancy is about 26- 32kg.; False;#
+77; The average total weight gain in pregnancy is about 1-2kg.; False;#
+78; Most weight gain in pregnancy happens in the second trimester; True;#
+79; Most weight gain in pregnancy happens in the third trimester; False;#
+80; You should be weighed at every visit to the antenatal clinic.; True;#
+81; Excessive weight gain maybe an important sign in early detection of pre-eclapmsia.; True;#
+82; Blood pressure is not necessary at every visit to the antenatal clinic.; False;#
+83; A rise in blood pressure is not an important sign in the early detection of pre-eclampsia; False;#
+84; At every antenatal visit your urine sample should be taken at the antenatal clinic and tested for protein and sugar; True;#
+85; Increased protein in urine is an important early sign in early detection of pre-eclapmsia.; True;#
+86; It is always important to check your urine during every antenatal visit.; True;#
+87; Increased glucose in urine maybe the first early sign of diabetes in pregnancy; True;#
+88; Proper diet will help control blood glucose in pregnancy; True;#
+89; Planning your delivery with your partner and family. It makes pregnancy fun and very interesting.; True;#
+90; About 80% of pregnant women would experience nausea and vomiting early in pregnancy.; True;#
+91; In the first two days post-delivery, it is not expected that there may be increased urination.; False;#
+92; Constipation is not possible post-delivery.; False;#
+93; Simple adequate fluid intake and fibre is enough to help the constipation.; True;#
+94; This breast milk is best for your baby; True;#
+95; Breastfeeding should be initiated within the first 30minutes of delivery of your baby; True;#
+96; Breastfeeding should be initiated within the first 30 hours of delivery of your baby; False;#
+97; Breastfeeding should be initiated within the first 3 hours of delivery of your baby.; False;#
+98; The time of return of menses is the same for different mothers.; False;#
+99; Strict compliance of breastfeeding for six months is important in a growing baby; True;#
+100; Baby friendly is exclusive breastfeeding for 1 month; False;#
+101; Baby friendly is exclusive breastfeeding for 6months; True;#
+102; Smoking & drinking alcohol during pregnancy can harm your baby.; True;#
+103; Malaria is very dangerous to a pregnant mother & baby.; True;#
+104; Never consult your doctor before taking any drugs during pregnancy; False;#
+105; Healthy fats found in nuts are good for baby's brain & development during pregnancy.; True;#
+106; It is good drink a lot of water during pregnancy; True;#
+107; Drinking alcohol in pregnancy causes birth irreversible abnormalities.; True;#
+108; There is no safe limit with alcohol use in pregnancy; True;#
+109; Drinking a small volume of alcohol is okay in pregnancy; False;#
+110; The womb expands about 500 times to carry a baby in pregnant woman; True;#
+111; 90% of pregnant women have darkened skin during pregnancy; True;#
+112; Sex in pregnancy is prohibited; False;# 
+113; Vaginal bleeding is normal in pregnancy; False;#
+114; Vaginal bleeding is a sign of danger in pregnancy; True;#
+115; Generally, pregnancy lasts approximately 40weeks.; True;#
+116; Pregnancy normally last for 60weeks; False;#
+117; Pregnancy normally last for 9 weeks; False;#
+118; Fathers should not be part of pregnancy; False;#
+119; Exercises during pregnancy are necessary.; True;#
+120; During pregnancy, eat very large quantities of food as you are 'Eating for two'; False;#
+121; In pregnancy, baby movements can be felt from about 18 weeks; True;#
+122; The sex of a baby is entirely dependent on the man's sperm.; True;#
+123; Most deliveries arrive between 37 to 42 weeks.; True;#
+124; Sex during pregnancy is prohibited; False;#
+125; Fruits and vegetables are very important source of vitamins in pregnancy; True;#
+126; Immunization help protects children against infections; True;#
+127; Immunization is safe!; True;#
+128; Immunization is bad for your baby; False;#
+129; Immunization helps to prevents diseases; True;#
+130; Immunization causes diseases; False;#
+131; Immunization helps to prevent diseases like smallpox and polio; True;#
+132; Outbreaks of preventable diseases occur when many parents decide not to vaccinate their children.; True;#
+133; Immunization can help prevent disease outbreaks; True;#
+134; Breastfeeding is crucial to the development of any child as it contains the right balance of nutrients to help your baby grow; True;#
+135; Breastfeeding is not useful for your baby; False;#
+136; Breastfeeding is not crucial to the development of a growing baby; False;#
+137; Breast milk does not contain useful nutrients; False;#
+138; Breastfeed exclusively! Give your baby ONLY breast milk  for the 1st 6 months of life; True;#
+139; Baby friendly is giving breast milk only for first 6 months of life; True;#
+140; Baby friendly is use of other food except breast milk for six months; False;#
+141; Breastfeed exclusively! Breastfeed your baby at least 8-12 times in 24 hours for the first 6 months of life; True;#
+142; Breast milk is naturally designed for your baby; True;#
+143; Breast milk is better than artificial baby food; True;#
+144; Artificial baby food is better than breast milk; False;#
+145; Breast milk doesn't meets all the nutritional needs of baby's in first 6 months of life; False;#
+146; Breast milk is easier for baby to digest and it helps fight off disease; True;#
+147; Breast milk is difficult for the baby to digest; False;#
+148; Breastfeeding helps protect the mother against breast and ovarian cancer.; True;#
+149; Breastfeeding is not important in preventing breast cancer ; False;#
+150; Breast milk is natural form of family planning; True;#
+151; Breastfeeding is not useful in family planning; False;#
+152; Breastfeeding can help you lose weight; True;#
+153; Breastfeeding causes you to add weight; False;#
+154; Breast milk has disadvantages.; False;#
+155; Exclusive breastfeeding is not good; False;#
+156; Only breast milk is not enough for baby in first 6 months ; False;#
+157; Inverted or flat nipples can sometimes make it harder to breastfeed; True;#
+158; If you have flat or inverted nipples, stop breastfeeding; False;#
+159; If you have flat or inverted nipples, you can use your fingers to try and pull your nipples out; True;#
+160; Often, flat and inverted nipples will protrude more over time, as the baby sucks more; True;#
+161; Breastfeed exclusively! Give your baby ONLY breast milk at least 8-12 times a day, for the 1st 6 months of life; True;#
+162; Encourage your baby to reach and grasp by placing toys just out of reach; True;#
+163; For an active baby, play push and pull games with balls and soft toys; True;#
+164; For an active baby, play music to encourage playful movement and encourage movement and play during bath time; True;#
+165; Family planning saves the lives of women!; True;#
+166; A woman's ability to choose if & when to become pregnant has a direct impact on her health and well-being; True;#
+167; A woman's ability to choose if & when to become pregnant does not have direct impact on her health and well-being; False;#
+168; Family planning allows spacing of pregnancies; True;#
+169; Family planning does not allow spacing of pregnancies; False;#
+170; Family planning allows crowding of pregnancies; False;#
+171; Family planning enables women who wish to limit the size of their families to do so; True;#
+172; Family planning is only for the mother; False;#
+173; In family planning the husband is not involved; False;#
+174; In family planning the husband is a distraction; False;#
+175; Family planning allows couples to attain their desired number of children; True;#
+176; Immunization is safe and effective; True;#
+177; Immunization is bad for your baby; False;#
+178; Thanks to vaccines, we have seen a dramatic decrease in new cases of infectious diseases.; True;#
+179; Vaccines save lives every day.; True;#
+180; Breastfeed till child is two years of age; True;#
+181; Add other food after 6 months of exclusive breastfeeding; True;#
+182; Add other food after 3 months of exclusive breastfeeding; False;#
+183; Under nutrition can affect a child's survival, growth and development; True;#
+184; Every growing child needs a balanced diet; True;#
+185; Essential fatty acid found in soya bean is necessary for brain growth.; True;#
+186; Essential fatty acid found in soya bean is bad for brain growth.; False;#
+187; A growing child needs 10 to 11 hours of sleep each night in order to pay attention in school, fight off sickness & stay healthy; True;#
+188; Brush your baby's teeth regularly in the morning and before bed in order to prevent tooth infection; True;#
+189; Brush a child's teeth only in the morning; False;#
+190; Never brush a child's teeth after meals; False;# 
+191; Wash hands with both soap and water; True;#
+192; Encourage children to practice hand washing; True;#
+193; Discourage children to practice hand washing; False;#
+194; Do not teach children hand washing; False;# 
+195; In hand washing, wash hands with only water; False;#
+196; Do not wash hands after using a toilet; False;#
+197; Do not wash hands before cooking; False;#
+198; Do not wash hands before eating; False;#
+199; Hand washing helps to prevent diseases; True;#
+200; Kids should always wash their hands before and after meals; True;#
+
+

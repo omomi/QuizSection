@@ -1,0 +1,38 @@
+.content-heading,.page-alt .content-heading {
+    background-image:url(./images/bg/alt.jpg)
+}
+body {
+    padding-bottom:69px
+}
+.content-heading {
+    background-position:50% 50%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:0px;
+}
+.page-blue .content-heading {
+    background-image:url(./images/bg/blue.jpg)
+}
+.page-green .content-heading {
+    background-image:url(./images/bg/green.jpg)
+}
+.page-purple .content-heading {
+    background-image:url(./images/bg/purple.jpg)
+}
+.page-red .content-heading {
+    background-image:url(./images/bg/red.jpg)
+}
+.page-yellow .content-heading {
+    background-image:url(./images/bg/yellow.jpg)
+}
+#message-form button, #image-form button {
+    width: 100px;
+    margin: 15px 0 0 10px;
+}
+.mdl-card {
+    min-height: 0;
+}
+.mdl-card {
+    background: linear-gradient(white, #f9f9f9);
+    justify-content: space-between;
+}
